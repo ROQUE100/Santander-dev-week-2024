@@ -1,0 +1,1 @@
+web: Java -jar build/libs/Santander-dev-week-2024-0.0.1-SNAPSHOT.jar
